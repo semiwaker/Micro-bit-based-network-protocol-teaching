@@ -1,4 +1,4 @@
-# Micro-bit-based-network-protocol-teaching
+# Codes for Micro:bit based network communication teaching
 
 ## Usage:
 ### serial_example.py
